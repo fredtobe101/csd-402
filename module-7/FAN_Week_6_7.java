@@ -1,3 +1,17 @@
+// Assignment 7.2: Programming Assignment
+//Fred Costello 
+// 07/25/2026
+//CSD-402
+
+// This program creates a Fan class with properties for speed, on/off state, radius, and color. 
+// It includes methods to get and set these properties, as well as constructors for default and parameterized initialization. 
+// The UseFans class demonstrates creating multiple Fan objects and displaying their properties.
+
+//Reference: https://www.geeksforgeeks.org/java-program-to-create-a-fan-class/, 
+// https://www.w3schools.com/java/java_classes.asp, Bellevue University Professor Darrell Payne Instructional video's, Google,Copilot
+
+
+
 import java.util.ArrayList;
 import java.util.List;
 
