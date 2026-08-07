@@ -1,3 +1,12 @@
+// Assignment 8.2 Programming Assignment
+// Frederick Costello
+// 08/01/2026
+// File Name: FredArrayListTest.java
+// -----------------------------------------
+// Purpose: The purpose of this assignment is to create a method that finds the largest number in an ArrayList of integers. 
+// The method will be tested with user input, and the largest number will be displayed.
+// Resources: Bellevue Videos "Darrell Payne", Apache Beans, Code Editor, Google, Copilot
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
